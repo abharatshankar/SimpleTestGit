@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // this is my edit
+        self.view.backgroundColor = .purple
         // Do any additional setup after loading the view.
     }
 
